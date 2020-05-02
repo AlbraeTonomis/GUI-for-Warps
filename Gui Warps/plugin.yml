@@ -1,0 +1,9 @@
+name: FarmweltGui
+version: 0.1
+main: de.AlbraeTonomis.farmweltGui.FarmweltGui
+
+commands:
+   farmwelt:
+      description: Dieser Comand oeffnet die Farm Gui
+   setspawn:
+      describtion: setze den Spawn
